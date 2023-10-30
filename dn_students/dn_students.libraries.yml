@@ -1,0 +1,15 @@
+global_styles:
+
+  js:
+    js/pagination.js: {}  
+  css:
+     theme:
+          css/style.css: {}
+          css/mobile.css: {}
+ 
+  dependencies:
+    - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.once

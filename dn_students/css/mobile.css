@@ -1,0 +1,21 @@
+/* @media (min-width: 360px) and (max-width: 767px) {
+    .dn-student-form .form-control {
+        width: 100% !important;
+    }
+    form#dn-student-form {
+        width: unset !important; 
+      
+    }
+    form#dn-student-table-form {
+        zoom: 50%;
+    }
+}
+@media (min-width: 360px) and (max-width: 415px){
+.logo-area.col-sm-12 {
+        padding: 0px 20px;
+    }
+    form#dn-student-form {
+        margin-left: 35px;
+    }
+
+} */

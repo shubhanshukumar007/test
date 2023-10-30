@@ -1,0 +1,6 @@
+name: DN Contactus
+type: module
+description: Contactus Ajax add/edit/delete
+package: Custom
+version: 1.0
+core_version_requirement: ^9 || ^10
